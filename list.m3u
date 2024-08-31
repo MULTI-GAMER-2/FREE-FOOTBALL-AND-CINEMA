@@ -1,19 +1,9 @@
 #EXTM3U
-#EXTINF:0,SPORT TV 1 HD 
-http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/160
-#EXTINF:0,SPORT TV 2 HD
-http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/3993
-#EXTINF:0,SPORT TV 3 HD
-http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/3994
-#EXTINF:0,SPORT TV 4 HD
-http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/7041
-#EXTINF:0,SPORT TV 5 HD
-http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/7040
-#EXTINF:0,TV CINE 1 HD
-http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/3987
-#EXTINF:0,TV CINE 2 HD
-http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/3988
-#EXTINF:0,TV CINE 3 HD
-http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/3989
-#EXTINF:0,TV CINE 4 HD
-http://iptvfree1.com:7899/live:.cid.9b5190e69349237e/hGYOfCADiS/3990
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1 HD (PT)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sport-tv-1-pt-hd.png" group-title="DEPORTES",SPORT TV 1 HD (PT)
+http://nxt.plus:8080/jesus01/jesus01/23424
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3 HD (PT)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sport-tv-3-pt-hd.png" group-title="DEPORTES",SPORT TV 3 HD (PT)
+http://nxt.plus:8080/jesus01/jesus01/23428
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4 HD (PT)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sport-tv-4-pt-hd.png" group-title="DEPORTES",SPORT TV 4 HD (PT)
+http://nxt.plus:8080/jesus01/jesus01/23431
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5 HD (PT)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/sport-tv-5-pt-hd.png" group-title="DEPORTES",SPORT TV 5 HD (PT)
+http://nxt.plus:8080/jesus01/jesus01/23432
